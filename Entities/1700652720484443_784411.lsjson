@@ -1,0 +1,38 @@
+{
+    "1700652720483610:784410": {
+        "IFileManager": {
+            "path": "Files/File_1700652720483610_784410.js"
+        }
+    },
+    "1700652720484443:784411": {
+        "IResourceController": {
+            "name": "Spawn Object at World Mesh On Tap",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700652720484452:784412",
+            "fileId": "1700652720483610:784410",
+            "publicId": "1700652720488131:784426",
+            "expected_hash": "5900a80c2e8d9df02271fe1cd7b466b7"
+        },
+        "IResourceManager": {
+            "uid": "1700652720484452:784412",
+            "name": "Files/File_1700652720483610_784410.js",
+            "flags": 1
+        }
+    },
+    "1700652720484452:784412": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700652720488131:784426": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Spawn Object at World Mesh on Tap/Spawn Object at World Mesh On Tap.js",
+                "hash": "5900a80c2e8d9df02271fe1cd7b466b7"
+            }
+        }
+    }
+}

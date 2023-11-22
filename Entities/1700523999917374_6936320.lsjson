@@ -1,0 +1,38 @@
+{
+    "1700523999916684:6936319": {
+        "IFileManager": {
+            "path": "Files/File_1700523999916684_6936319.js"
+        }
+    },
+    "1700523999917374:6936320": {
+        "IResourceController": {
+            "name": "ElasticFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700523999917395:6936321",
+            "fileId": "1700523999916684:6936319",
+            "publicId": "1700523999920450:6936331",
+            "expected_hash": "0270a706558bcc539bb03743048205ae"
+        },
+        "IResourceManager": {
+            "uid": "1700523999917395:6936321",
+            "name": "Files/File_1700523999916684_6936319.js",
+            "flags": 1
+        }
+    },
+    "1700523999917395:6936321": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700523999920450:6936331": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/ElasticFunc.js",
+                "hash": "0270a706558bcc539bb03743048205ae"
+            }
+        }
+    }
+}

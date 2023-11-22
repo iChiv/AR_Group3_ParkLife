@@ -1,0 +1,38 @@
+{
+    "1700524000052812:6936755": {
+        "IFileManager": {
+            "path": "Files/File_1700524000052812_6936755.js"
+        }
+    },
+    "1700524000053731:6936756": {
+        "IResourceController": {
+            "name": "TweenRotFromQuat",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700524000053738:6936757",
+            "fileId": "1700524000052812:6936755",
+            "publicId": "1700524000056175:6936767",
+            "expected_hash": "604e7f5487a90420570b94854efb7ffc"
+        },
+        "IResourceManager": {
+            "uid": "1700524000053738:6936757",
+            "name": "Files/File_1700524000052812_6936755.js",
+            "flags": 1
+        }
+    },
+    "1700524000053738:6936757": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700524000056175:6936767": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotFromQuat.js",
+                "hash": "604e7f5487a90420570b94854efb7ffc"
+            }
+        }
+    }
+}

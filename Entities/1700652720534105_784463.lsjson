@@ -1,0 +1,22 @@
+{
+    "1700652720534105:784463": {
+        "IResourceController": {
+            "name": "[Mesh Builder Example] Pipe Between Objects",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700652720534335:784464",
+            "resources": [
+                "1700652720534766:784465"
+            ]
+        }
+    },
+    "1700652720534335:784464": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/[Mesh Builder Example] Pipe Between Objects"
+            }
+        }
+    }
+}

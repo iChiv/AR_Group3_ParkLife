@@ -1,0 +1,23 @@
+{
+    "1700652720486955:784424": {
+        "IResourceController": {
+            "name": "Spawn Object at World Mesh on Tap",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700652720487134:784425",
+            "resources": [
+                "1700652720484443:784411",
+                "1700652720488513:784431"
+            ]
+        }
+    },
+    "1700652720487134:784425": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Spawn Object at World Mesh on Tap"
+            }
+        }
+    }
+}

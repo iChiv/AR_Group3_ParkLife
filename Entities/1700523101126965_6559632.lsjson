@@ -1,0 +1,33 @@
+{
+    "1700523101126211:6559631": {
+        "IFileManager": {
+            "path": "Files/File_1700523101126211_6559631.mp3"
+        }
+    },
+    "1700523101126965:6559632": {
+        "IResourceController": {
+            "name": "4",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700523101126972:6559633",
+            "fileId": "1700523101126211:6559631",
+            "publicId": "1700523101127525:6559638",
+            "expected_hash": "77813348a84ae33bb18be0046195e464"
+        },
+        "IResourceManager": {
+            "uid": "1700523101126972:6559633",
+            "name": "Files/File_1700523101126211_6559631.mp3",
+            "flags": 1
+        }
+    },
+    "1700523101127525:6559638": {
+        "IResourceController": {
+            "public": {
+                "path": "audio/4.mp3",
+                "hash": "77813348a84ae33bb18be0046195e464"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1700523999898515:6936272": {
+        "IFileManager": {
+            "path": "Files/File_1700523999898515_6936272.js"
+        }
+    },
+    "1700523999899310:6936273": {
+        "IResourceController": {
+            "name": "SinusoidalFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700523999899317:6936274",
+            "fileId": "1700523999898515:6936272",
+            "publicId": "1700523999901537:6936284",
+            "expected_hash": "6294a047f499cc5c3bc2cb4fc5ff3ce6"
+        },
+        "IResourceManager": {
+            "uid": "1700523999899317:6936274",
+            "name": "Files/File_1700523999898515_6936272.js",
+            "flags": 1
+        }
+    },
+    "1700523999899317:6936274": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700523999901537:6936284": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/SinusoidalFunc.js",
+                "hash": "6294a047f499cc5c3bc2cb4fc5ff3ce6"
+            }
+        }
+    }
+}

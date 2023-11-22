@@ -1,0 +1,79 @@
+{
+    "1700522904441805:6502289": {
+        "IFileManager": {
+            "path": "Files/File_1700522904441805_6502289.pvr"
+        }
+    },
+    "1700522904442912:6502290": {
+        "IResourceController": {
+            "name": "画板 1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700522904443157:6502291",
+            "fileId": "1700522904441805:6502289",
+            "originalId": "1700522904443444:6502296",
+            "publicId": "1700522904448402:6502298",
+            "expected_hash": "8cc00dbdb39a3509edb17fdb3dff16c6",
+            "additional": {
+                "originHash": "933fdd990dac9a6e4ae15fa588029867"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700522904443157:6502291",
+            "name": "Files/File_1700522904441805_6502289.png",
+            "flags": 1
+        }
+    },
+    "1700522904443157:6502291": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "933fdd990dac9a6e4ae15fa588029867"
+                    },
+                    "v": "1700522919524235:6504809"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "47064",
+                "compressedSize": "11107",
+                "extension": "png",
+                "originalRAM": "374736",
+                "originalSize": "29589",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700522904444997:6502297"
+        }
+    },
+    "1700522904443444:6502296": {
+        "IFileManager": {
+            "path": "Files/File_1700522904443444_6502296.png"
+        }
+    },
+    "1700522904444997:6502297": {
+        "IFileManager": {
+            "path": "Files/File_1700522904444997_6502297.png"
+        }
+    },
+    "1700522904448402:6502298": {
+        "IResourceController": {
+            "public": {
+                "path": "img/画板 1.png",
+                "hash": "933fdd990dac9a6e4ae15fa588029867"
+            }
+        }
+    },
+    "1700522919524235:6504809": {
+        "IFileManager": {
+            "path": "Files/File_1700522919524235_6504809.pvr"
+        }
+    }
+}

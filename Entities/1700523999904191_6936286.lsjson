@@ -1,0 +1,38 @@
+{
+    "1700523999902452:6936285": {
+        "IFileManager": {
+            "path": "Files/File_1700523999902452_6936285.js"
+        }
+    },
+    "1700523999904191:6936286": {
+        "IResourceController": {
+            "name": "BounceFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700523999904203:6936287",
+            "fileId": "1700523999902452:6936285",
+            "publicId": "1700523999907013:6936299",
+            "expected_hash": "ab757c89182b5fea23f2c0a66e7833d2"
+        },
+        "IResourceManager": {
+            "uid": "1700523999904203:6936287",
+            "name": "Files/File_1700523999902452_6936285.js",
+            "flags": 1
+        }
+    },
+    "1700523999904203:6936287": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700523999907013:6936299": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/BounceFunc.js",
+                "hash": "ab757c89182b5fea23f2c0a66e7833d2"
+            }
+        }
+    }
+}

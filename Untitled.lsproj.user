@@ -1,0 +1,797 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1700523037735773:6536986",
+                "1700523294537895:6610604",
+                "1700523916842184:6898603",
+                "1700524344590106:7109061",
+                "1700524518152292:7205668",
+                "1700524676687993:7319628",
+                "1700525189271205:7568019",
+                "1700525195511311:7575025",
+                "1700525198791072:7581774",
+                "1700525287453814:7657634",
+                "1700525411746569:7804911",
+                "1700525662168739:7996329",
+                "1700525693339244:8058161",
+                "1700525715128938:8086605",
+                "1700525773076448:8130632",
+                "1700525775073286:8139624",
+                "1700526452791635:8441430",
+                "1700527145339960:8707790",
+                "1700527156850909:8728968",
+                "1700527207135045:8873841"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1700523721563139:6796027"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Behavior"
+                ],
+                [
+                    "From Asset Library"
+                ],
+                [
+                    "From Asset Library",
+                    "Spawn Object at World Mesh on Tap"
+                ],
+                [
+                    "From Asset Library",
+                    "Spawn Object at World Mesh on Tap",
+                    "Point of Interest"
+                ],
+                [
+                    "From Asset Library",
+                    "Spawn Object at World Mesh on Tap",
+                    "Spawn Object at World Mesh On Tap"
+                ],
+                [
+                    "From Asset Library",
+                    "[Mesh Builder Example] Pipe Between Objects"
+                ],
+                [
+                    "From Asset Library",
+                    "[Mesh Builder Example] Pipe Between Objects",
+                    "Assets"
+                ],
+                [
+                    "From Asset Library",
+                    "[Mesh Builder Example] Pipe Between Objects",
+                    "Assets",
+                    "Pin"
+                ],
+                [
+                    "Text3D Default"
+                ],
+                [
+                    "Tracking Marker"
+                ],
+                [
+                    "Tween"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "ExampleTweenValueScript"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "Image Unlit"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "TweenBoxDiffuse"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "TweenBoxDiffuse_Alt"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "TweenSphereDiffuse"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Meshes"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Meshes",
+                    "TweenBox"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Meshes",
+                    "TweenSphere"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Textures"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Textures",
+                    "TweenImageTextures"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Textures",
+                    "TweenImageTextures",
+                    "Image"
+                ],
+                [
+                    "Tween",
+                    "Tween"
+                ],
+                [
+                    "Tween",
+                    "TweenManager"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "Legacy"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "Legacy",
+                    "TweenBillboard [DEPRECATED]"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "TweenAlpha"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "TweenChain"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "TweenColor"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "TweenScreenTransform"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "TweenTransform"
+                ],
+                [
+                    "Tween",
+                    "TweenTypes",
+                    "TweenValue"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "All Tween Nodes"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Basic Tweens"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Basic Tweens",
+                    "MinimalTween"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Basic Tweens",
+                    "TweenNumber"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Basic Tweens",
+                    "TweenVec3"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Color"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Color",
+                    "TweenColorFrom"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Color",
+                    "TweenColorFromTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Color",
+                    "TweenColorTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "BackFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "BounceFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "CircularFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "CubicFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "ElasticFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "ExponentialFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "LinearFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "QuadraticFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "QuarticFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "QuinticFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "EasingFuncs",
+                    "SinusoidalFunc"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Helpers"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Helpers",
+                    "RetrieveTween"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Helpers",
+                    "StoreTween"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "RemoveTween"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "TweenChainTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "TweenOnComplete"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "TweenSetEasing"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "TweenSetOnUpdate"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "TweenSetRepeat"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "TweenSetTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Modifiers",
+                    "TweenStart"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Position"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Position",
+                    "TweenPosFrom"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Position",
+                    "TweenPosFromTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Position",
+                    "TweenPosTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Rotation"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Rotation",
+                    "TweenRotFromEuler"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Rotation",
+                    "TweenRotFromQuat"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Rotation",
+                    "TweenRotFromToEuler"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Rotation",
+                    "TweenRotFromToQuat"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Rotation",
+                    "TweenRotToEuler"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Rotation",
+                    "TweenRotToQuat"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Scale"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Scale",
+                    "TweenScaleFrom"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Scale",
+                    "TweenScaleFromTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "Tween Nodes",
+                    "Scale",
+                    "TweenScaleTo"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "GetGenericTweenScriptValue"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "IsTweenScriptPaused"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "IsTweenScriptPlaying"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "PauseTweenScript"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "ResetTweenScript"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "ResetTweenScriptObject"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "ResumeTweenScript"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "StartTweenScript"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "TweenManager Nodes",
+                    "StopTweenScript"
+                ],
+                [
+                    "UI Button"
+                ],
+                [
+                    "audio",
+                    "1"
+                ],
+                [
+                    "audio",
+                    "2"
+                ],
+                [
+                    "audio",
+                    "3"
+                ],
+                [
+                    "audio",
+                    "4"
+                ],
+                [
+                    "audio",
+                    "5"
+                ],
+                [
+                    "audio",
+                    "6"
+                ],
+                [
+                    "audio",
+                    "7"
+                ],
+                [
+                    "audio",
+                    "8"
+                ],
+                [
+                    "img"
+                ],
+                [
+                    "img",
+                    "Group 4"
+                ],
+                [
+                    "img",
+                    "MicrosoftTeams-image"
+                ],
+                [
+                    "img",
+                    "MicrosoftTeams-image (1)"
+                ],
+                [
+                    "img",
+                    "New Folder"
+                ],
+                [
+                    "img",
+                    "二维码"
+                ],
+                [
+                    "img",
+                    "画板 1"
+                ],
+                [
+                    "img",
+                    "画板 2"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1517446348227994:84813",
+                "1700522918637938:6504566",
+                "1700523286559612:6607518",
+                "1700524000816173:6937000"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1700522904004925:6502169": "/Users/zv_n/Desktop/XXXX/image and voice/Group 4.png",
+            "1700522904322861:6502199": "/Users/zv_n/Desktop/XXXX/image and voice/MicrosoftTeams-image (1).png",
+            "1700522904357923:6502211": "/Users/zv_n/Desktop/XXXX/image and voice/MicrosoftTeams-image.png",
+            "1700522904397982:6502265": "/Users/zv_n/Desktop/XXXX/image and voice/二维码.jpg",
+            "1700522904442912:6502290": "/Users/zv_n/Desktop/XXXX/image and voice/画板 1.png",
+            "1700522904481567:6502307": "/Users/zv_n/Desktop/XXXX/image and voice/画板 2.png",
+            "1700522918633772:6504553": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOlGkjmISeHnx",
+            "1700523035052127:6536234": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle//Presets/Scripts/BehaviorScript.js",
+            "1700523101063883:6559048": "/Users/zv_n/Desktop/XXXX/image and voice/1.mp3",
+            "1700523101084650:6559066": "/Users/zv_n/Desktop/XXXX/image and voice/2.mp3",
+            "1700523101108698:6559098": "/Users/zv_n/Desktop/XXXX/image and voice/3.mp3",
+            "1700523101126965:6559632": "/Users/zv_n/Desktop/XXXX/image and voice/4.mp3",
+            "1700523101149999:6559650": "/Users/zv_n/Desktop/XXXX/image and voice/5.mp3",
+            "1700523101174756:6559668": "/Users/zv_n/Desktop/XXXX/image and voice/6.mp3",
+            "1700523101200278:6559678": "/Users/zv_n/Desktop/XXXX/image and voice/7.mp3",
+            "1700523101226045:6559697": "/Users/zv_n/Desktop/XXXX/image and voice/8.mp3",
+            "1700523256840656:6601368": "/Users/zv_n/Library/Application Support/Snap/Lens Studio/Bundle/Custom Components/UI Button@4.49.0/UI_Button.lsc",
+            "1700523256841468:6601370": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523256843853:6601429": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyTtf.ttf",
+            "1700523256845394:6601439": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523256846914:6601449": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523256967981:6601514": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523256970048:6601524": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJpg.jpg",
+            "1700523999772722:6935954": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999783844:6935977": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999791315:6935992": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999796982:6936005": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999804450:6936020": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999824335:6936041": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999829976:6936054": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999836394:6936067": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999847521:6936088": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999852075:6936105": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999855781:6936118": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999858614:6936131": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999861150:6936144": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999863594:6936157": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999866654:6936170": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999870135:6936183": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999878989:6936204": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999884016:6936217": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999887961:6936234": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999891736:6936247": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999895559:6936260": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999899310:6936273": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999904191:6936286": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999913867:6936307": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999917374:6936320": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999921503:6936333": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999924487:6936346": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999927600:6936359": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999930346:6936372": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999933775:6936387": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999937457:6936400": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999946748:6936423": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999951593:6936436": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999955915:6936449": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999959991:6936464": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999964672:6936477": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999969268:6936490": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999978174:6936511": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999982937:6936524": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999987089:6936537": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999989856:6936550": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999992578:6936563": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999995491:6936578": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700523999998888:6936591": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000002852:6936604": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000011378:6936627": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000016683:6936640": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000020834:6936653": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000024294:6936668": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000027487:6936681": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000031575:6936694": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000036917:6936709": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000045440:6936730": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000050031:6936743": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000053731:6936756": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000057500:6936769": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000061324:6936783": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyGraph.lsscript",
+            "1700524000069911:6936798": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700524000530708:6936909": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyMesh.mesh",
+            "1700524000562509:6936935": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyMesh.mesh",
+            "1700524000593428:6936959": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJpg.jpg",
+            "1700524000810702:6936986": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioOicHwLmJbkrJ//system//emergencyFiles/emergencyJs.js",
+            "1700652720484443:784411": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioWpImYkebEQXr//system//emergencyFiles/emergencyJs.js",
+            "1700652720513755:784449": "/Users/zv_n/Library/Caches/Snap/Lens Studio/temp/StudioWpImYkebEQXr//system//emergencyFiles/emergencyMesh.mesh"
+        }
+    },
+    "InspectorController": {
+        "selection": null
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {},
+    "ScriptModulesController": {}
+}

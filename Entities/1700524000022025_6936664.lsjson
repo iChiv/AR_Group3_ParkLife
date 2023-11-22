@@ -1,0 +1,24 @@
+{
+    "1700524000022025:6936664": {
+        "IResourceController": {
+            "name": "Scale",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700524000022184:6936665",
+            "resources": [
+                "1700524000020834:6936653",
+                "1700524000024294:6936668",
+                "1700524000027487:6936681"
+            ]
+        }
+    },
+    "1700524000022184:6936665": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Scale"
+            }
+        }
+    }
+}

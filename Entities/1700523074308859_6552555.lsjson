@@ -1,0 +1,20 @@
+{
+    "1700523074308859:6552555": {
+        "IResourceController": {
+            "name": "New Folder",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700523074309117:6552556",
+            "resources": []
+        }
+    },
+    "1700523074309117:6552556": {
+        "IResourceController": {
+            "public": {
+                "path": "img/New Folder"
+            }
+        }
+    }
+}

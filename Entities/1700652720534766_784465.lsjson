@@ -1,0 +1,22 @@
+{
+    "1700652720534766:784465": {
+        "IResourceController": {
+            "name": "Assets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700652720534931:784466",
+            "resources": [
+                "1700652720513755:784449"
+            ]
+        }
+    },
+    "1700652720534931:784466": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/[Mesh Builder Example] Pipe Between Objects/Assets"
+            }
+        }
+    }
+}

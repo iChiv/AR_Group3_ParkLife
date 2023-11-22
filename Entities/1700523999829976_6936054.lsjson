@@ -1,0 +1,38 @@
+{
+    "1700523999829298:6936053": {
+        "IFileManager": {
+            "path": "Files/File_1700523999829298_6936053.js"
+        }
+    },
+    "1700523999829976:6936054": {
+        "IResourceController": {
+            "name": "TweenScreenTransform",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700523999829988:6936055",
+            "fileId": "1700523999829298:6936053",
+            "publicId": "1700523999835214:6936065",
+            "expected_hash": "89d55019a3ae3fed3fa95d77d68139b4"
+        },
+        "IResourceManager": {
+            "uid": "1700523999829988:6936055",
+            "name": "Files/File_1700523999829298_6936053.js",
+            "flags": 1
+        }
+    },
+    "1700523999829988:6936055": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700523999835214:6936065": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenScreenTransform.js",
+                "hash": "89d55019a3ae3fed3fa95d77d68139b4"
+            }
+        }
+    }
+}

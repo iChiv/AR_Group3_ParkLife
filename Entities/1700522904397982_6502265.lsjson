@@ -1,0 +1,79 @@
+{
+    "1700522904396979:6502264": {
+        "IFileManager": {
+            "path": "Files/File_1700522904396979_6502264.pvr"
+        }
+    },
+    "1700522904397982:6502265": {
+        "IResourceController": {
+            "name": "二维码",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700522904398657:6502266",
+            "fileId": "1700522904396979:6502264",
+            "originalId": "1700522904402069:6502271",
+            "publicId": "1700522904413350:6502273",
+            "expected_hash": "13d21c838d9a618c2a2a41d3dbd0f0cd",
+            "additional": {
+                "originHash": "542b8ed963c0f0dd8dd973533ba0fddf"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700522904398657:6502266",
+            "name": "Files/File_1700522904396979_6502264.jpg",
+            "flags": 1
+        }
+    },
+    "1700522904398657:6502266": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "542b8ed963c0f0dd8dd973533ba0fddf"
+                    },
+                    "v": "1700522918187970:6504509"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "387200",
+                "compressedSize": "255375",
+                "extension": "jpg",
+                "originalRAM": "3097600",
+                "originalSize": "113403",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700522904406026:6502272"
+        }
+    },
+    "1700522904402069:6502271": {
+        "IFileManager": {
+            "path": "Files/File_1700522904402069_6502271.jpg"
+        }
+    },
+    "1700522904406026:6502272": {
+        "IFileManager": {
+            "path": "Files/File_1700522904406026_6502272.jpg"
+        }
+    },
+    "1700522904413350:6502273": {
+        "IResourceController": {
+            "public": {
+                "path": "img/二维码.jpg",
+                "hash": "542b8ed963c0f0dd8dd973533ba0fddf"
+            }
+        }
+    },
+    "1700522918187970:6504509": {
+        "IFileManager": {
+            "path": "Files/File_1700522918187970_6504509.pvr"
+        }
+    }
+}

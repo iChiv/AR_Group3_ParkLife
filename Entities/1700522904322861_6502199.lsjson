@@ -1,0 +1,79 @@
+{
+    "1700522904320993:6502193": {
+        "IFileManager": {
+            "path": "Files/File_1700522904320993_6502193.pvr"
+        }
+    },
+    "1700522904322861:6502199": {
+        "IResourceController": {
+            "name": "MicrosoftTeams-image (1)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700522904323109:6502200",
+            "fileId": "1700522904320993:6502193",
+            "originalId": "1700522904323901:6502205",
+            "publicId": "1700522904331710:6502207",
+            "expected_hash": "014655887e2c1310165d306452df243c",
+            "additional": {
+                "originHash": "6f211c7b0678f11115c855e2ec7493a5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700522904323109:6502200",
+            "name": "Files/File_1700522904320993_6502193.png",
+            "flags": 1
+        }
+    },
+    "1700522904323109:6502200": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6f211c7b0678f11115c855e2ec7493a5"
+                    },
+                    "v": "1700522907166865:6502805"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "51200",
+                "compressedSize": "8753",
+                "extension": "png",
+                "originalRAM": "409600",
+                "originalSize": "16308",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700522904326889:6502206"
+        }
+    },
+    "1700522904323901:6502205": {
+        "IFileManager": {
+            "path": "Files/File_1700522904323901_6502205.png"
+        }
+    },
+    "1700522904326889:6502206": {
+        "IFileManager": {
+            "path": "Files/File_1700522904326889_6502206.png"
+        }
+    },
+    "1700522904331710:6502207": {
+        "IResourceController": {
+            "public": {
+                "path": "img/MicrosoftTeams-image (1).png",
+                "hash": "6f211c7b0678f11115c855e2ec7493a5"
+            }
+        }
+    },
+    "1700522907166865:6502805": {
+        "IFileManager": {
+            "path": "Files/File_1700522907166865_6502805.pvr"
+        }
+    }
+}

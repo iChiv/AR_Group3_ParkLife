@@ -1,0 +1,38 @@
+{
+    "1700523999958887:6936463": {
+        "IFileManager": {
+            "path": "Files/File_1700523999958887_6936463.js"
+        }
+    },
+    "1700523999959991:6936464": {
+        "IResourceController": {
+            "name": "TweenSetRepeat",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700523999959999:6936465",
+            "fileId": "1700523999958887:6936463",
+            "publicId": "1700523999962633:6936475",
+            "expected_hash": "51a2b36110d9527c76a8a395eaacecd7"
+        },
+        "IResourceManager": {
+            "uid": "1700523999959999:6936465",
+            "name": "Files/File_1700523999958887_6936463.js",
+            "flags": 1
+        }
+    },
+    "1700523999959999:6936465": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700523999962633:6936475": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenSetRepeat.js",
+                "hash": "51a2b36110d9527c76a8a395eaacecd7"
+            }
+        }
+    }
+}

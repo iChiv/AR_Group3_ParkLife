@@ -1,0 +1,23 @@
+{
+    "1700652720486113:784422": {
+        "IResourceController": {
+            "name": "From Asset Library",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700652720486329:784423",
+            "resources": [
+                "1700652720486955:784424",
+                "1700652720534105:784463"
+            ]
+        }
+    },
+    "1700652720486329:784423": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library"
+            }
+        }
+    }
+}

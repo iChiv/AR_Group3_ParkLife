@@ -1,0 +1,38 @@
+{
+    "1700523999992022:6936562": {
+        "IFileManager": {
+            "path": "Files/File_1700523999992022_6936562.js"
+        }
+    },
+    "1700523999992578:6936563": {
+        "IResourceController": {
+            "name": "MinimalTween",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700523999992584:6936564",
+            "fileId": "1700523999992022:6936562",
+            "publicId": "1700523999994523:6936576",
+            "expected_hash": "ca1078be471b33502a3222d4221169b0"
+        },
+        "IResourceManager": {
+            "uid": "1700523999992584:6936564",
+            "name": "Files/File_1700523999992022_6936562.js",
+            "flags": 1
+        }
+    },
+    "1700523999992584:6936564": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700523999994523:6936576": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Basic Tweens/MinimalTween.js",
+                "hash": "ca1078be471b33502a3222d4221169b0"
+            }
+        }
+    }
+}

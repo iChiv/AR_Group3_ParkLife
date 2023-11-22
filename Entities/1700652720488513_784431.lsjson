@@ -1,0 +1,39 @@
+{
+    "1700652720488513:784431": {
+        "IResourceController": {
+            "name": "Point of Interest",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700652720488492:784428",
+            "fileId": "1700652720508448:784437",
+            "originalId": "1700652741687976:798596",
+            "publicId": "1700652720510150:784441",
+            "expected_hash": "6868b709da1ac0237e430e09967db5ef"
+        },
+        "IResourceManager": {
+            "uid": "1700652720488492:784428",
+            "name": "sceneObject_3",
+            "flags": 0
+        }
+    },
+    "1700652720508448:784437": {
+        "IFileManager": {
+            "path": "Files/File_1700652720508448_784437.oprfb"
+        }
+    },
+    "1700652720510150:784441": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Spawn Object at World Mesh on Tap/Point of Interest.oprfb",
+                "hash": "74c939f172e4fc4dcb4216e7d08bea23"
+            }
+        }
+    },
+    "1700652741687976:798596": {
+        "IFileManager": {
+            "path": "Files/File_1700652741687976_798596.oprfb"
+        }
+    }
+}
